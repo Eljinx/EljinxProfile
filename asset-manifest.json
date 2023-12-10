@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Eljinx-Profile/static/css/main.76cae9ab.css",
+    "main.js": "/Eljinx-Profile/static/js/main.d5a2d95c.js",
+    "static/media/horse.jpg": "/Eljinx-Profile/static/media/horse.bb502994f4e889c3e8ed.jpg",
+    "static/media/me.png": "/Eljinx-Profile/static/media/me.daf330d4ce1ecd844f94.png",
+    "static/media/MyCV.pdf": "/Eljinx-Profile/static/media/MyCV.85aeff4cb6d707792d3b.pdf",
+    "static/media/portfolio6.jpg": "/Eljinx-Profile/static/media/portfolio6.32c471d8bd7e76b03478.jpg",
+    "static/media/portfolio3.jpg": "/Eljinx-Profile/static/media/portfolio3.c3b1c53741f198bfe407.jpg",
+    "static/media/portfolio5.jpg": "/Eljinx-Profile/static/media/portfolio5.b3f2e70e0ae0c75e4a70.jpg",
+    "static/media/portfolio2.jpg": "/Eljinx-Profile/static/media/portfolio2.96f0ae8a9b9b86c3b3b6.jpg",
+    "static/media/portfolio4.jpg": "/Eljinx-Profile/static/media/portfolio4.1ec0b3dcc2c828e8868f.jpg",
+    "static/media/portfolio1.jpg": "/Eljinx-Profile/static/media/portfolio1.21dac1e333231d4a3eaa.jpg",
+    "index.html": "/Eljinx-Profile/index.html",
+    "main.76cae9ab.css.map": "/Eljinx-Profile/static/css/main.76cae9ab.css.map",
+    "main.d5a2d95c.js.map": "/Eljinx-Profile/static/js/main.d5a2d95c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76cae9ab.css",
+    "static/js/main.d5a2d95c.js"
+  ]
+}
